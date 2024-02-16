@@ -1,0 +1,33 @@
+For my user story, "As a user, I would like to be able to view my balance so I can add and 
+remove money": Given they user has a balance, when they request a balance, then they will 
+recieve the balance along with options for depoist and withdraw 
+
+For my user story, "As a user I would like to be able to organize my spending by type so I 
+can be more organized.": Given the user has either a deposit or withdrawal to report, when 
+they go to add it to the balance, then they will be prompted with type options. 
+
+For my user story, "As a user I would like to be able to view my spending habits so I can 
+help better them": Given the user has a spending history, when they view the analysis tab,
+then they will be presented with analysis options and a breakdown
+
+
+For IH#1: The ui tells you what it does and gives you the options, the options names say why 
+you want to use the feature
+
+For IH#2: The costs are made clear by a disclaimer which warns that user error could lead to 
+a different balance than your real account. 
+
+For IH#3: User can pick what tags they have on purchases so that you can custom your stats,
+later you will be able to add your own tags
+
+For IH#4: The ui is familiar because it is similar to other CLI interfaces.
+
+For IH#5: User can select back if they make the wrong choice, also 0 can be entered to go back. 
+
+For IH#6: The menu displays all the options each time you move to a new screen, so it is clear
+what to do next.
+
+For IH#7: Users can either go back using the back button or by inputting 0 into the withdraw or 
+deposit prompt, allowing them different ways to approach the issue of going back.
+
+For IH#8: Withdrawals and deposits have a screen that makes sure you're sure.
